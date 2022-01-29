@@ -1,4 +1,4 @@
-package br.com.projectwithtests.api.resource;
+package br.com.projectwithtests.api.resources;
 
 import br.com.projectwithtests.api.domain.User;
 import br.com.projectwithtests.api.services.UserService;
